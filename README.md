@@ -1,7 +1,7 @@
 ![Flickr](https://live.staticflickr.com/65535/49770138256_8e54fdfaa0_b.jpg)
 
 <p align="center">
-    <h3>Real Time Message Protocol (RTMT Server) for OBS </h3>
+    <h3>Real Time Message Protocol (RTMP Server) for OBS </h3>
 </p>
 
 ## Deskripsi :
