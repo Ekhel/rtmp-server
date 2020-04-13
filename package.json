@@ -1,0 +1,22 @@
+{
+  "name": "rtmp-server",
+  "version": "1.0.0",
+  "description": "Real Time Message Protocol Server for OBS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekhel/rtmp-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekhel/rtmp-server/issues"
+  },
+  "homepage": "https://github.com/Ekhel/rtmp-server#readme",
+  "dependencies": {
+    "node-media-server": "^2.1.6"
+  }
+}
